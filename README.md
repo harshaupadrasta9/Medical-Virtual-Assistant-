@@ -2,10 +2,10 @@
 Hi there, 👋
 Welcome to the Medical Virtual Assistant Bot! This chatbot is designed to assist you with medical queries using the GALE ENCYCLOPEDIA of MEDICINE.
 
-Overview
+#Overview:
 This bot leverages advanced language models and retrieval-based question answering techniques to provide accurate and contextually relevant responses to medical queries.
 
-Features
+#Features:
 Natural Language Understanding: Equipped with state-of-the-art language understanding capabilities for processing user queries.
 Search Functionality: Utilizes the GALE ENCYCLOPEDIA of MEDICINE to retrieve information on various medical topics.
 Contextual Responses: Provides responses tailored to the context of the user's query.
